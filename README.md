@@ -19,26 +19,19 @@ This project is a multi-modal AI chatbot agent that uses Large Language Models (
 7. Modular and deployment-ready structure
 
 ## 🧰 Tech Stack
-LangChain + LangGraph – agent logic, workflows, tool chaining
+- **LangChain + LangGraph** – Agent logic, tool chaining, and multi-step workflows  
+- **FastAPI** – Backend API development and routing  
+- **Streamlit** – Frontend user interface for interactions  
+- **Tavily API** – Real-time web search integration  
+- **Groq/OpenAI API** – Large Language Model (LLM) response generation  
+- **Python** – Core programming for orchestration and logic  
 
-FastAPI – backend API and routing
-
-Streamlit – frontend UI
-
-Tavily API – external search
-
-Groq/OpenAI API – LLM response generation
-
-Python – orchestration and server logic
 
 ## 🧠 Skills Demonstrated
-LLM integration and orchestration
+- LLM integration and orchestration
+- Real-time API interaction
+- Backend development with FastAPI
+- Prompt engineering and tool use
+- Frontend UI with Streamlit
 
-Real-time API interaction
-
-Backend development with FastAPI
-
-Prompt engineering and tool use
-
-Frontend UI with Streamlit
 
